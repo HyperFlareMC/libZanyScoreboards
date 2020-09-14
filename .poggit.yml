@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HyperFlareMC/libZanyScoreboards
+build-by-default: true
+branches:
+- master
+projects:
+  libZanyScoreboards:
+    path: ""
+    model: virion
+    type: library
+...

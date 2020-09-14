@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace HyperTest\zanytest;
+namespace HyperFlareMC\libzanyscoreboards;
 
 use pocketmine\network\mcpe\protocol\RemoveObjectivePacket;
 use pocketmine\network\mcpe\protocol\SetDisplayObjectivePacket;

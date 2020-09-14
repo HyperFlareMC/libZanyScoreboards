@@ -1,4 +1,6 @@
 name: libZanyScoreboards
-version: 1.0.0
-main: HyperFlareMC\libzanyscoreboards\libZanyScoreboards
+authors:
+  - HyperFlareMC
+antigen: HyperFlareMC\libzanyscoreboards\libZanyScoreboards
+version: 1.0.1
 api: 3.0.0
